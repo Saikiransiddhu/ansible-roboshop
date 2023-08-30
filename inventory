@@ -1,1 +1,8 @@
 [mongodb]
+mongodb.saikirandevops.cloud
+
+[catalogue]
+catalogue.saikirandevops.cloud
+
+[web]
+web.saikirandevops.cloud
