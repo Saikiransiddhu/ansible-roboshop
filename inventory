@@ -6,3 +6,24 @@ catalogue.saikirandevops.cloud
 
 [web]
 web.saikirandevops.cloud
+
+[redis]
+redis.saikirandevops.cloud
+
+[user]
+user.saikirandevops.cloud
+
+[cart]
+cart.saikirandevops.cloud
+
+[mysql]
+mysql.saikirandevops.cloud
+
+[shipping]
+shipping.saikirandevops.cloud
+
+[rabbitmq]
+rabbitmq.saikirandevops.cloud
+
+[payment]
+payment.saikirandevops.cloud
